@@ -1,0 +1,17 @@
+#+title: Daily work log for <Name>
+
+* Month of May
+** [2016-05-16 Mon]
+   + What is the task I was assigned today
+     I was assigned to follow certain instructions to set up git and emacs on the system.
+     And familarise myself with emacs and git.
+   + What did I get done with each task?
+     I learnt how to use git along with its various functions and Emacs Text editor.
+** [2016-05-17 Tue]
+   
+
+** Weekly  Summary
+   + What are the insights gained?
+   + What is my footprint in the realization of the project?
+* Month of June
+* Month of July
