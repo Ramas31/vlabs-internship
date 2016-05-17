@@ -1,0 +1,20 @@
+#+TITLE: Building Web Application: Groud up to the Cloud
+#+AUTHOR: Rama Shanbhag
+#+DATE: [2016-05-17 Tue]
+*  Introduction
+A web appliaction is a continuosly running set of programs.
+** Components of web application
+A web application consists of two parts: server side and client side.  Client
+side provides an interface for the interaction between the machine and the
+user.  It consists of a browser and client side application. Server side
+provides the contents of the application with the help of the database. 
+*  Software Development Life Cycle
+**  Requirement Determination and analysis 
+This phase of software development is to document all the neccessary features
+and functions required in the application.
+**  Software Design
+Here the system design that satisfies all the specifiactions mentioned in the
+document of requirements
+**  Implementation
+
+**  Deployment 
