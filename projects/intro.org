@@ -3,6 +3,7 @@
 #+DATE: [2016-05-17 Tue]
 *  Introduction
 A web appliaction is a continuosly running set of programs.
+- [[./IMG_20160517_092640205.jpg][Image]] ::
 ** Components of web application
 A web application consists of two parts: server side and client side.  Client
 side provides an interface for the interaction between the machine and the
@@ -12,9 +13,51 @@ provides the contents of the application with the help of the database.
 **  Requirement Determination and analysis 
 This phase of software development is to document all the neccessary features
 and functions required in the application.
-**  Software Design
+
+Example:
+
+-User can be of two types: user and admin
+
+-Every User is associated with unique email-id and name
+
+-admin can create and delete User
+
+-user can update, view and update details 
+
+-user can have more than one session
+
+**  Software Design and data model
 Here the system design that satisfies all the specifiactions mentioned in the
 document of requirements
+
+Example:
+
+Relations and Cardinality:
+
+-Every User has exactly one email-id and every email-id is associated with
+atmost one User. [email, user] : User? > Email!
+
+-Every User has exactly one name and every name may be associated with 
+at least one User. [name, user] : User > Name!
+
+-Every User has exactly one role and every role may be associated with
+at least one User. [role, user] : User? > Role!
+
+-Every User may be associated at least one session and every session is associated with
+exactly one User. [email, user] : User! >Session
+
+
+Primary Entity set:
+UserSet, SessionSet
+
+Applying Relation to Sets: 
+EmailSet, NameSet, RoleSet, Logged-in-user-set, logged in user-role-set 
+
+State structure and Type structure 
+
+
 **  Implementation
 
 **  Deployment 
+* List of Technologies
+- [[https://www.python.org][Python]] :: Python will be main language of implementation in this project
