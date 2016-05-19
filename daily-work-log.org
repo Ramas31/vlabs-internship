@@ -1,4 +1,4 @@
-#+title: Daily work log for <Name>
+#+title: Daily work log for Rama Shanbhag
 
 * Month of May
 ** [2016-05-16 Mon]
