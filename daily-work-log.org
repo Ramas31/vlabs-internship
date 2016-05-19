@@ -10,8 +10,18 @@
 ** [2016-05-17 Tue]
    + Task assigned today:
       To identify the requirements and design a data model for a web application which has list of users having unique email ID logged in. 
-   + Task we did
+   + Task we did:
       We identified the actors, entities, their relations with each other and the operations performed on them with the help of state and type structures. 
+** [2016-05-18 Wed]
+   + Task assigned today:
+      To implement the data model for a web application which has list of users having unique email ID logged in. 
+   + Task we did:
+      We implemented certain class along with their operations in python in object oriented approach.
+** [2016-05-19 Thu]
+   + Task assigned today:
+      Continue with the implementaion of the data model adding session class and its operations
+   + Task we did
+      Implemented a data model with various operations under different classes and formulated various test cases with which the model will be associated.
 ** Weekly  Summary
    + What are the insights gained?
    + What is my footprint in the realization of the project?
