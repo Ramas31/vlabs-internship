@@ -22,6 +22,12 @@
       Continue with the implementaion of the data model adding session class and its operations
    + Task we did
       Implemented a data model with various operations under different classes and formulated various test cases with which the model will be associated.
+** [2016-05-20 fri]
+   + Task assigned today:
+      Introduce a new class called system and reorganise the operations. Also write the test cases for those operations
+   + What did i get done against each task:
+      Rewrote code for operations after reorganising them and adding System class. Managed to write test cases for most of the operations and tested them.
+   
 ** Weekly  Summary
    + What are the insights gained?
    + What is my footprint in the realization of the project?
