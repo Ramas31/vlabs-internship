@@ -3,20 +3,20 @@
 * Month of May
 ** [2016-05-16 Mon]
    + What is the task I was assigned today?
-     I was assigned to follow certain instructions to set up git and emacs on the system.
+   I was assigned to follow certain instructions to set up git and emacs on the system.
      And understand the usgae of emacs and git.
    + What did I get done with each task?
-     I learnt how to use git along with its various functions and Emacs Text editor along with its various commands.
+   I learnt how to use git along with its various functions and Emacs Text editor along with its various commands.
 ** [2016-05-17 Tue]
     + What is the task I was assigned today?
-      To identify the requirements and design a data model for a web application which has list of users having unique email ID logged in. 
+   To identify the requirements and design a data model for a web application which has list of users having unique email ID logged in. 
    + What did I get done with each task?
-      We identified the actors, entities, their relations with each other and the operations performed on them with the help of state and type structures. 
+   We identified the actors, entities, their relations with each other and the operations performed on them with the help of state and type structures. 
 ** [2016-05-18 Wed]
    + What is the task I was assigned today?
-      To implement the data model for a web application which has list of users having unique email ID logged in. 
+   To implement the data model for a web application which has list of users having unique email ID logged in. 
    + What did I get done with each task?
-      We implemented certain class along with their operations in python in object oriented approach.
+   We implemented certain class along with their operations in python in object oriented approach.
 ** [2016-05-19 Thu]
    + What is the task I was assigned today?
    Continue with the implementaion of the data model adding session class and its operations
@@ -107,8 +107,34 @@
    Identified all the test cases and understood the working of all the experiments in this lab
 ** [2016-06-07 Tue]
    + What is the task I was assigned today?
-   Write test cases for the working all the features of molecular absorption spectroscopy lab. 
+   Understand certain javascript libraries which might be useful for the project
    + What did I get done against each task?
-   Identified all the test cases and understood the working of all the experiments in this lab
+   Went through the libraries and developed a html static page.
+** [2016-06-08 Wed]
+   + What is the task I was assigned today?
+   Start working on the project and also develop a plugin which helps in installing all the dependencies when the user performs experiments.
+   + What did I get done against each task?
+   Previously developed HTML page was not responsive. So changed the look and feel of the experiment and made it responsive.
+** [2016-06-09 Thu]
+   + What is the task I was assigned today?
+   Since the user interface of the experiment cannot differ from the original I was asked to redevelop the same thing again
+   + What did I get done against each task?
+   Using an extractor I extracted all the images from the gitHub file and and started working on them.Since it was getting harder for me to merge all the images extracted I stopped working on for a while to ask for suggestions 
+   Also learnt how to develop a plugin and craeted a simple plugin.
+** [2016-06-10 Fri]
+   + What is the task I was assigned today?
+   I was asked to merge all the images in a seperate editor and then use them directly 
+   + What did I get done against each task?
+   I used Photoshop for creatong diffrent frames and then changing them in a sequesnce so that the object appear to move. 
+** Weekly  Summary
+   + What are the insights gained?
+   + What is my footprint in the realization of the project?
+I
+   
+** [2016-06-13 Mon]
+   + What is the task I was assigned today?
+   Continue working on the same. Since it was getting complicated I was asked to try out some developer tools to make things simple
+   + What did I get done against each task?
+   I started looking into createjs, Google createjs toolkit to work directly with javascript. Learnt how to add sprite sheet and building movie clip objects via sprite sheets
 * Month of July
 
